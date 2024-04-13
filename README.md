@@ -1,4 +1,4 @@
-# Hello, I'm [Muhamed]! 👋
+# Hello, I'm Muhamed! 👋
 
 Welcome to my GitHub profile! I'm a Software Developer based in Cazin, BiH. I have experience in frontend development and am familiar with technologies such as React, Next.js, HTML, CSS, Tailwind CSS, JavaScript, and TypeScript.
 
