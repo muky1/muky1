@@ -6,5 +6,3 @@ Welcome to my GitHub profile! I'm a Software Developer based in Cazin, BiH. I ha
 
 - LinkedIn: [https://www.linkedin.com/in/muhamed-begi%C4%87-839a461b9/](#)
 - Email: [muhamed-begic@outlook.com](mailto:muhamed-begic@outlook.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=muky1&color=blue)
