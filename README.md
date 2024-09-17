@@ -4,5 +4,5 @@ Welcome to my GitHub profile! I'm a Software Developer based in Cazin, BiH. I ha
 
 ## 📫 How to reach me:
 
-- LinkedIn: [https://www.linkedin.com/in/muhamed-begi%C4%87-839a461b9/](#)
+- LinkedIn: [https://www.linkedin.com/in/muhamed-begi%C4%87-839a461b9/]
 - Email: [muhamed-begic@outlook.com](mailto:muhamed-begic@outlook.com)
